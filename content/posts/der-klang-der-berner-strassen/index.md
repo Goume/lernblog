@@ -2,7 +2,7 @@
 title = "Der Klang der Berner Strassen "
 date = "2022-12-02"
 draft = false
-pinned = false
+pinned = true
 image = "microsoftteams-image-1-.jpg"
 +++
 ![Abbildung 1: Santhosh und Simon am Spielen vor der Zytglogge (Foto: Guillaume)](microsoftteams-image-1-.jpg)
