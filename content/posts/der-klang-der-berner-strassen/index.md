@@ -1,5 +1,5 @@
 +++
-title = "Der Klang der Berner Strassen "
+title = "Der Klang der berner Strassen "
 date = "2022-12-02"
 draft = false
 pinned = true
