@@ -2,21 +2,21 @@
 title = "Der Klang der berner Strassen"
 date = "2022-12-02"
 draft = false
-pinned = true
+pinned = false
+tags = ["Deutsch", "Reportage"]
 image = "microsoftteams-image-1-.jpg"
 +++
-
 ![Abbildung 1: Santhosh und Simon am Spielen vor der Zytglogge (Foto: Guillaume)](microsoftteams-image-1-.jpg)
 
 # Der Klang der Berner Strassen
 
 {{<lead>}}
 
-Strassenkunst ist ein fester Bestandteil der Stadt Bern. Ob in den Lauben oder auf dem Bahnhofsplatz, jeden Tag findet man Personen, welche ihre Kunst mit der Öffentlichkeit teilen wollen. Wir – Simon, Guillaume und Santhosh, drei Schüler des Gymnasiums Kirchenfeld – haben uns für einen Nachmittag in das Leben eines Strassenkünstlers versetzt.
+Strassenkunst ist ein fester Bestandteil der Stadt Bern. Ob in den Lauben oder auf dem Bahnhofsplatz, jeden Tag findet man Personen, welche ihre Kunst mit der Öffentlichkeit teilen wollen. Wir – Simon, Guillaume und Santhosh, drei Schüler des Gymnasiums Kirchenfeld – haben uns für einen Nachmittag in das Leben eines Strassenkünstlers versetzt. *Eine Reportage von Guillaume, Simon und Santhosh.*
 
 {{</lead>}}
 
-Musik begegnet man jeden Tag und in jeder Kultur auf verschiedenste Weise. Egal ob schöne Melodien, rhythmische Wörter oder dissonante Geräusche, grundsätzlich gehört jeder Ton zur Musik. Diese Vielfalt der Musik ist der Grund, weshalb wir zu grossen Liebhabern der Musik gehören. Diese Diversität zeigt sich am stärksten in der Strassenmusik. Von simplen Sängern mit Gitarre bis zu komplizierten Impressionisten, die mit ihrer Stimme die Melodie singen und gleichzeitig mit Händen und Füssen die Begleitung trommeln, ist alles vorhanden. Ebenfalls ist die Interaktion der Zuhörer\*innen bei der Strassenmusik am grössten.
+Musik begegnet man jeden Tag und in jeder Kultur auf verschiedenste Weise. Egal ob schöne Melodien, rhythmische Wörter oder dissonante Geräusche, grundsätzlich gehört jeder Ton zur Musik. Diese Vielfalt der Musik ist der Grund, weshalb wir zu grossen Liebhabern der Musik gehören. Diese Diversität zeigt sich am stärksten in der Strassenmusik. Von simplen Sängern mit Gitarre bis zu komplizierten Impressionisten, die mit ihrer Stimme die Melodie singen und gleichzeitig mit Händen und Füssen die Begleitung trommeln, ist alles vorhanden. Ebenfalls ist die Interaktion der Zuhörer*innen bei der Strassenmusik am grössten.
 Wir spielen alle ein Instrument, und die Idee, zusammen Strassenmusik zu machen und mit unserer Musik Freude zu verbreiten, schwebte schon lange in unseren Köpfen. Nach langer Planung haben wir diese Idee nun umgesetzt.
 
 ![Abbildung 2: Bild von Claudia Zimmermann (Quelle: Claudia Zimmermann)](bild1.jpg)
@@ -29,17 +29,17 @@ Claudia Zimmermann ist die Cousine von Simon. Momentan ist sie als Ärztin in Mi
 
 {{</box>}}
 
-In den Wochen vor unserem geplanten Auftritt treffen wir uns mit Simons Cousine und Strassenkünstlerin Claudia Zimmermann, um herauszufinden, was uns als Strassenkünstler erwarten wird. Einer der Hauptpunkte, welchen wir aus dem Gespräch ziehen können, ist, dass der Kontakt zum Publikum viel direkter und ungefilterter ist als beim Vorspielen auf einer Bühne. Wenn den Zuschauer\*innen gefällt, was sie sehen oder hören, bleiben sie stehen, wenn es ihnen nicht gefällt, gehen sie weiter. Claudia erwähnt ebenfalls Unterschiede zu Videos im Internet. So sagt sie, dass der Nervenkitzel bei Echtzeitvorstellungen viel grösser sei als bei TikTok-Videos, welche oft gekünstelt und surreal wirken.
+In den Wochen vor unserem geplanten Auftritt treffen wir uns mit Simons Cousine und Strassenkünstlerin Claudia Zimmermann, um herauszufinden, was uns als Strassenkünstler erwarten wird. Einer der Hauptpunkte, welchen wir aus dem Gespräch ziehen können, ist, dass der Kontakt zum Publikum viel direkter und ungefilterter ist als beim Vorspielen auf einer Bühne. Wenn den Zuschauer*innen gefällt, was sie sehen oder hören, bleiben sie stehen, wenn es ihnen nicht gefällt, gehen sie weiter. Claudia erwähnt ebenfalls Unterschiede zu Videos im Internet. So sagt sie, dass der Nervenkitzel bei Echtzeitvorstellungen viel grösser sei als bei TikTok-Videos, welche oft gekünstelt und surreal wirken.
 
 > «Im Vergleich zu beispielsweise einem TikTok-Video, welches stark gekünstelt und fast surreal wirkt, ist der Nervenkitzel einer Echtzeitvorstellung unbezahlbar.»
-> 
-> _Claudia Zimmermann_
+>
+> *Claudia Zimmermann*
 
 Für Claudia ist die direkte Nähe zum Publikum der grösste Anreiz der Strassenmusik. Sie erzählt uns davon, dass, sobald sich ein Publikum gebildet hat, eine Energie und Atmosphäre zwischen Publikum und Künstler entsteht, welche die kunstschaffende Person zu absoluten Spitzenleistungen antreiben kann.
 
 > «Man kann auch mit dem Publikum interagieren, man lernt neue Leute kennen, sieht ihre Reaktionen, hört ihren Applaus, spürt die in der Luft pulsierenden Energiewellen.»
-> 
-> _Claudia Zimmermann_
+>
+> *Claudia Zimmermann*
 
 ## Treffpunkt
 
