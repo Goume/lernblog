@@ -8,9 +8,9 @@ image = "microsoftteams-image-1-.jpg"
 +++
 {{<lead>}}
 
-Strassenkunst ist ein fester Bestandteil der Stadt Bern. Ob in den Lauben oder auf dem Bahnhofsplatz, jeden Tag findet man Personen, welche ihre Kunst mit der Öffentlichkeit teilen wollen. Wir – Simon, Guillaume und Santhosh, drei Schüler des Gymnasiums Kirchenfeld – haben uns für einen Nachmittag in das Leben eines Strassenkünstlers versetzt. 
+###### Strassenkunst ist ein fester Bestandteil der Stadt Bern. Ob in den Lauben oder auf dem Bahnhofsplatz, jeden Tag findet man Personen, welche ihre Kunst mit der Öffentlichkeit teilen wollen. Wir – Simon, Guillaume und Santhosh, drei Schüler des Gymnasiums Kirchenfeld – haben uns für einen Nachmittag in das Leben eines Strassenkünstlers versetzt. 
 
-*Eine Reportage von Guillaume, Simon und Santhosh.*
+###### *Eine Reportage von Guillaume, Simon und Santhosh.*
 
 {{</lead>}}
 
