@@ -1,5 +1,5 @@
 +++
-title = "Der Klang der berner Strassen"
+title = "Der Klang der Berner Strassen"
 date = "2022-12-02"
 draft = false
 pinned = false
@@ -8,11 +8,11 @@ image = "microsoftteams-image-1-.jpg"
 +++
 ![Abbildung 1: Santhosh und Simon am Spielen vor der Zytglogge (Foto: Guillaume)](microsoftteams-image-1-.jpg)
 
-# Der Klang der Berner Strassen
-
 {{<lead>}}
 
-Strassenkunst ist ein fester Bestandteil der Stadt Bern. Ob in den Lauben oder auf dem Bahnhofsplatz, jeden Tag findet man Personen, welche ihre Kunst mit der Öffentlichkeit teilen wollen. Wir – Simon, Guillaume und Santhosh, drei Schüler des Gymnasiums Kirchenfeld – haben uns für einen Nachmittag in das Leben eines Strassenkünstlers versetzt. *Eine Reportage von Guillaume, Simon und Santhosh.*
+Strassenkunst ist ein fester Bestandteil der Stadt Bern. Ob in den Lauben oder auf dem Bahnhofsplatz, jeden Tag findet man Personen, welche ihre Kunst mit der Öffentlichkeit teilen wollen. Wir – Simon, Guillaume und Santhosh, drei Schüler des Gymnasiums Kirchenfeld – haben uns für einen Nachmittag in das Leben eines Strassenkünstlers versetzt. 
+
+*Eine Reportage von Guillaume, Simon und Santhosh.*
 
 {{</lead>}}
 
